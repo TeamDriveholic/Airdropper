@@ -1,9 +1,4 @@
-# Airdropper
 
-This is a simple node.js script that will allow you to airdrop tokens from an account to a fixed list of accounts.
-
-## Tutorial
-A tutorial on how to use this is provided on medium here. Check it out!
 
 ## Requirements
 1. List of accounts that you want to airdrop to in the form of a file named "balances.json" (can be obtained by using parity export state functionality)
